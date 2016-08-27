@@ -4,10 +4,10 @@
 markdown: kramdown
 highlighter: rouge
 paginate: 5
-language: 'en-uk'
+language: 'ch'
 
 # Website info
-name: 'Finding The Way Home'
+name: 'Welkin的技术博客'
 description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
 
 # Author's info
