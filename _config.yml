@@ -16,10 +16,10 @@ author: 'Casper McFadden'
 nickname: casper
 bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
 location: 'Maine, USA'
-url: 'http://biomadeira.github.io/jasper/'
+url: 'http://welkin94.github.io'
 image: 'assets/images/casper.png'
 
-short_url: 'biomadeira.github.io/jasper/'
+short_url: 'welkin94.github.io/'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
@@ -56,13 +56,13 @@ exclude: [vendor]
 # or "master" otherwise
 safe: false
 lsi: false
-username: biomadeira
-repo: jasper
+username: welkin94
+repo: welkin94.github.io
 branch: master
-relative_source: ../jasper/
+relative_source: ../welkin94.github.io/
 destination: ../jasper-pages/
-production_url:  https://biomadeira.github.io/jasper/
-source_url:      https://github.com/biomadeira/jasper/
+production_url:  https://welkin94.github.io/
+source_url:      https://github.com/welkin94/welkin94.github.io/
 
 exclude:
   - README.md
