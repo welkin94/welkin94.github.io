@@ -23,7 +23,7 @@ short_url: 'welkin94.github.io/'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper/
+baseurl: /welkin94.github.io/
 
 # Permalinks
 permalink: /:title
