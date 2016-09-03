@@ -1,3 +1,15 @@
+---
+layout: post
+cover: 'assets/images/cover3.jpg'
+title: 在Opencv中实现Matlab的bwareaopen函数功能 
+date:   2016-09-03 10:18:00
+tags: test content
+subclass: 'post tag-test tag-content'
+categories: 'casper'
+navigation: True
+logo: 'assets/images/ghost.png'
+---
+
 # 在Opencv中实现Matlab的bwareaopen函数功能
 
 在Matlab中，我们通常利用bwareaopen函数去除八邻域内面积小于一定值的连通域。Opencv里没有特定的函数实现该功能，但我们可以自己设计一个孔洞填充/小区域去除的方式来实现。下面是实现的代码。
