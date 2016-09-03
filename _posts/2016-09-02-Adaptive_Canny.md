@@ -1,3 +1,14 @@
+---
+layout: post
+cover: 'assets/images/cover3.jpg'
+title: Canny自适应边缘检测（openCV）
+date:   2016-09-03 10:18:00
+tags: 图像处理 去噪
+subclass: 'post tag-test tag-content'
+categories: 'casper'
+navigation: True
+logo: 'assets/images/ghost.png'
+---
 # Canny自适应边缘检测（openCV）
 
 Canny算子是一种常用的边缘检测算子，其在opencv中的形式如下
