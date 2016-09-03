@@ -2,7 +2,7 @@
 layout: post
 cover: 'assets/images/cover3.jpg'
 title: Canny自适应边缘检测（openCV）
-date:   2016-09-03 10:18:00
+date:   2016-09-02 10:18:00
 tags: 图像处理 去噪
 subclass: 'post tag-test tag-content'
 categories: 'casper'
